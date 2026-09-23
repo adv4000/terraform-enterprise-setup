@@ -1,0 +1,12 @@
+environment : "prod"
+account_id  : "032823347814"
+assume_role : "arn:aws:iam::032823347814:role/OrganizationAccountAccessRole" # AWSControlTowerExecution
+
+tags:
+   Environment   : "prod"
+   Type          : "prod"
+   AccountTagKey : "AccountTagValue"   
+
+
+public_domain : "www.adv-it.net"
+private_domain: "www.adv-it.internal"

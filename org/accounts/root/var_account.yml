@@ -1,0 +1,7 @@
+environment : "root"
+account_id  : "827611452653"
+
+tags:
+   Environment   : "root"
+   Type          : "prod"
+   AccountTagKey : "AccountTagValue"   

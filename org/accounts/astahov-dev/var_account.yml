@@ -1,0 +1,12 @@
+environment : "dev"
+account_id  : "639130796919"
+assume_role : "arn:aws:iam::639130796919:role/OrganizationAccountAccessRole" # AWSControlTowerExecution
+
+tags:
+   Environment   : "dev"
+   Type          : "nonprod"
+   AccountTagKey : "AccountTagValue"
+
+
+public_domain : "dev.adv-it.net"
+private_domain: "dev.adv-it.internal"

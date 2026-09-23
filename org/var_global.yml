@@ -1,0 +1,9 @@
+tags:
+    ManagedBy    : "Terraform"
+    Owner        : "ADV-IT"
+    aws-apn-id   : "pc:xxxxxxxxxxyyyyyyyyyyyyzzzzzzz"
+    map-migrated : "migXXXXYYYZZZZ"
+    GlobalTagKey : "GlobalTagValue"
+
+
+public_domain: "adv-it.net"

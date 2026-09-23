@@ -1,0 +1,12 @@
+environment : "shared"
+account_id  : "061302979075"
+assume_role : "arn:aws:iam::061302979075:role/OrganizationAccountAccessRole" # AWSControlTowerExecution
+
+tags:
+   Environment   : "shared"
+   Type          : "prod"
+   AccountTagKey : "AccountTagValue"   
+
+
+public_domain : "shared.adv-it.net"
+private_domain: "shared.adv-it.internal"
